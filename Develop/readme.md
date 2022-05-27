@@ -1,23 +1,24 @@
-# d
+# run buddy
+ 
   * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributions](#Contributing)
-* [Tests](#Tests)
+* [Test](#Test)
 * [Questions](#Questions)
 
   ## Description
-d
+using html and css create a responsive webpage
 ## Installation
-d
+copy the code from github repo https://github.com/DanielOrnelas01/run-buddy
 ## Usage
-d
+click the deployed page in github repo https://danielornelas01.github.io/run-buddy/
 ## License
 MIT
 ## Contributing
-d
+I wrote out the code for this page
 ## Test
-d
+you can open in default browswer by right clicking and selecting open in default browswer in the html file after you copy the code to your local machine
 ## Questions
-d
+no
